@@ -1,0 +1,6 @@
+git init { for initialising the git
+ls -a { for even seeing the git file
+git status { for seeing the file status wheather they have been added to git staging 
+git add file.name { for adding the particular file
+git commit -m "Comment" { for commiting to git staging
+git log { for seeing the log which have been earlier saved
